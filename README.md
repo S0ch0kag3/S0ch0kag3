@@ -4,7 +4,8 @@
 
  Monitoring Public internet project
  
-(https://github.com/S0ch0kag3/Azure-Vulnerable-VM-Exposing-Critical-Misconfigurations.git) </b>
+<b>[ Cloud Security Labs
+](https://github.com/S0ch0kag3/Azure-Vulnerable-VM-Exposing-Critical-Misconfigurations.git) </b>
 
 
 <h3> Ansible Linux Projects</h3>
