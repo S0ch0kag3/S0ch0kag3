@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cyber Security Project:</h2>
 
-- <b> Monitoring Public internet project
-- README.md </b>
+- <[b> Monitoring Public internet project
+- 
+-(https://github.com/S0ch0kag3/Azure-Vulnerable-VM-Exposing-Critical-Misconfigurations.git) </b>
 
 <h3> Ansible Linux Projects</h3>
 
