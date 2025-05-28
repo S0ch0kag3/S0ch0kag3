@@ -11,6 +11,11 @@
 
 <b> Creating SSH Keys on RHEL  with YAML file </b>
 
+
+
+
+
+
 - 🔭 I’m currently working on automation/scripting skills in cloud operations and devlopments rols
-- 🌱 I’m currently learning redhat Linux, CLoud Security
+- 🌱 I’m currently learning redhat Linux, Cloud Security
 -->
