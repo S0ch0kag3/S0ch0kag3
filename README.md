@@ -10,12 +10,12 @@
 
 <h3> Ansible Linux Projects</h3>
 
--<b>[ Anisble-Automation-Projects
+<b>[ Anisble-Automation-Projects
 ](https://github.com/S0ch0kag3/Anisble-Automation-Projects.git) </b>
 
 <h3>OPENSHIFT- project </h3>
 
-<b>[ OpenShift-Projects
+<b>[ OpenShift-Projects]
 https://github.com/S0ch0kag3/OPENSHFIT-AAA
 </b>
 
