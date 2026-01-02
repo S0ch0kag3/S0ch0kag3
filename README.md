@@ -13,7 +13,10 @@
 -<b>[ Anisble-Automation-Projects
 ](https://github.com/S0ch0kag3/Anisble-Automation-Projects.git) </b>
 
-
+OPENSHIFT- project 
+<b>
+https://github.com/S0ch0kag3/OPENSHFIT-AAA
+</b>
 
 
 - 🔭 I’m currently working on automation/scripting skills in cloud operations and devlopments roles
