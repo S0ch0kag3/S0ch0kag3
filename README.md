@@ -16,6 +16,6 @@
 
 
 
-- 🔭 I’m currently working on automation/scripting skills in cloud operations and devlopments rols
-- 🌱 I’m currently learning Redhat Linux, Cloud Security
+- 🔭 I’m currently working on automation/scripting skills in cloud operations and devlopments roles
+- 🌱 I’m currently learning Redhat Linux, Kubernetes/OpenShift, Cloud Security, with a focus on Identity and AAA
 -->
