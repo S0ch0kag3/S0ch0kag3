@@ -20,6 +20,6 @@ https://github.com/S0ch0kag3/OPENSHFIT-AAA
 </b>
 
 
-- 🔭 I’m currently working on automation/scripting skills in cloud operations and devlopments roles
-- 🌱 I’m currently learning Redhat Linux, Kubernetes/OpenShift, Cloud Security, with a focus on Identity and AAA
+- 🔭 I’m currently working on automation/scripting skills in Cloud operations and DevOps roles
+- 🌱 I’m currently learning Redhat Linux, Kubernetes/OpenShift, Docker/Podman, Cloud Security, with a focus on Identity Management/AAA
 -->
